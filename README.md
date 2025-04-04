@@ -1,8 +1,7 @@
 # Me 
 
-- I work mainly on [Timetable](https://github.com/user5522/timetable), [my website](https://user5522.tk), [SquareGame](https://github.com/user5522/squaregame) and sometimes  [u3d](https://github.com/user5522/u3d)
-- It looks like I never commit but I usually do big changes locally and I never commit for whatever reason
-- I wish I was real
+- I work mainly on [Timetable](https://github.com/user5522/timetable), [my website](https://user5522.vercel.app), [u3d](https://github.com/user5522/u3d) and sometimes [SquareGame](https://github.com/user5522/squaregame)
+- One of my wishes is to become real
 
 Some stats because those are pretty cool:
 
