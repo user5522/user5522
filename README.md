@@ -5,7 +5,7 @@
 
 Some stats because those are pretty cool:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=user5522&show_icons=true&title_color=fff&icon_color=2196F3&text_color=9f9f9f&bg_color=151515)
+![Github stats](https://github-readme-stats.vercel.app/api?username=user5522&show_icons=true&title_color=fff&icon_color=2196F3&text_color=9f9f9f&bg_color=151515&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user5522&title_color=fff&text_color=9f9f9f&bg_color=151515&layout=compact&hide=ShaderLab,HLSL)
 
