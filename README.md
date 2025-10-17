@@ -9,4 +9,4 @@ Some stats because those are pretty cool:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user5522&title_color=fff&text_color=9f9f9f&bg_color=151515&layout=compact&hide=ShaderLab,HLSL)
 
-ℹ️ for more info check [my website](https://user5522.vercel.app)
+ℹ️ for more info check [my website](https://user5522.xyz)
